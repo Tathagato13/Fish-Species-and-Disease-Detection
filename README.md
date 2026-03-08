@@ -74,12 +74,12 @@ This system is designed to provide scalable, AI-based monitoring solutions for:
 
 ### 🐟 Fish Species Dataset
 Contains images of various commercial and common fish species.
-* **Example Species:** Rohu, Catla, Tilapia, Salmon, Tuna
+* **Example Species:** Prawn, Black Pomphate, Pomplate etc.
 * **Splits:** `Train` | `Validation` | `Test`
 
 ### 🦠 Fish Disease Dataset
 Contains fish images categorized strictly by disease type.
-* **Classes:** Healthy, White Spot, Black Spot, Red Spot
+* **Classes:** Healthy, Diseased
 * **Splits:** `Train` | `Validation` | `Test`
 
 ---
